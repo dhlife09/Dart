@@ -9,7 +9,7 @@ for ( [초기식]; [조건식]; [변화식]) {
 */
 
 void main() {
-  for ( var i = 0; i == 10; i++ ) {
+  for ( var i = 0; i < 10; i++ ) {
     print("*");
   }
 }
